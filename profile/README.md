@@ -1,6 +1,6 @@
 # Digital Enablement
 
-Welcome to the official GitHub organization for the Digital Enablement team! We are a diverse group of professionals dedicated to leveraging technology to enhance environmental health and safety (EHS) performance within the Performance Assurance Operations sector.
+Welcome to the official GitHub organization for the Digital Enablement team! We are a diverse group of professionals dedicated to leveraging technology to enhance environmental health and safety (EHS) performance within the EHS sector.
 
 ## Who We Are
 
